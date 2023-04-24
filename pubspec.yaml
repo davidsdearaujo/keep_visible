@@ -1,7 +1,7 @@
 name: keep_visible
 description: Keep an widget visible when the keyboard appears.
 version: 1.0.0
-git: https://github.com/davidsdearaujo/keep_visible
+repository: https://github.com/davidsdearaujo/keep_visible
 
 environment:
   sdk: '>=2.14.0 <3.0.0'
